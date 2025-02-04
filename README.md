@@ -31,10 +31,19 @@ In the application part. We have developed a mobile application that connects to
 "don't allow" location and displays it on the menu list. After selecting menu, users can view the details of the menu. The server-side consists of a PM2.5 Forecast database. the model that runs on the webserver
 to predict PM2.5 and return predictions to the application of the client.
 
+## Operation
+- STEP 1 : **Select Data** (PM2.5, PM10, Wind speed, Pressure, Humidity,Temperature, and traffic )
+- STEP 2 : **Manage Data** (Clean Data/Interpolation)
+- STEP 3 : **Select Modes** (Compare and Select models GRU and LSTM)
+- STEP 4 : **Create App** (Desige and Develop on Android studio)
+- STEP 5 : **Connect server** (Database with Android studio and ArcGis Server with Android)
+> [!NOTE]
+> Steps 1-3 will be included in the content of the GitHub repository: <a href="https://github.com/mmaitty01/FinalProject_CityAir_Model">Model Part</a>
+
 ## Getting Started
 
 To run this app on your local machine or Android device, follow these steps:
-1. Clone this repository to your local machine using `git clone https://github.com/mmaitty01/AirCity-FinalProject`
+1. Clone this repository to your local machine using `git clone https://github.com/mmaitty01/FinalProject_CityAir_App.git`
 2. Open the project in Android Studio or your preferred Android development environment.
 3. Build and run the application on an Android emulator or a physical Android device.
 
