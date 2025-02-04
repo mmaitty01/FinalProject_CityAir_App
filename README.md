@@ -1,4 +1,4 @@
-# Development of Mobile Application For Daily Air Quality Assessment In Bangkok
+# Development of Mobile Application For Daily Air Quality Assessment In Bangkok ---App Part
 City Air แอปพลิเคชันประเมินคุณภาพอากาศรายวันในกรุงเทพมหานคร โดยใช้แบบจำลอง LSTM ในการทำนาย PM2.5 ล่วงหน้า 7 วัน และใช้เทคโนโลยี GIS ในการแสดงผลเชิงแผนที่บน Application
 <p align="center"><img src = "https://github.com/user-attachments/assets/b6b53864-b855-4bd4-af88-ad857b7846a2"></p>
 
